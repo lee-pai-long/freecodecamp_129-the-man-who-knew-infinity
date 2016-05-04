@@ -1,0 +1,31 @@
+body {
+  margin-top: 60px;
+}
+
+h1, h2, blockquote p  {
+	font-family: 'Gravitas One';
+}
+
+h1 {
+  font-size: 5vw;
+}
+
+h2 {
+  font-size: 3vw;
+}
+
+blockquote p  {
+	font-style: italic;
+}
+
+.blockquote-footer {
+	font-family: Philosopher;
+}
+
+.std-text, .lead p {
+  font-family: Abel;
+}
+
+.std-text{
+  font-size: 15px;
+  }
