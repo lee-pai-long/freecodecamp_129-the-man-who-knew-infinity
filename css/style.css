@@ -2,6 +2,7 @@ body {
   margin-top: 60px;
 }
 
+/* need the Gravitas+One font : fonts.googleapis.com/css?family=Gravitas+One */
 h1, h2, blockquote p  {
 	font-family: 'Gravitas One';
 }
@@ -18,10 +19,12 @@ blockquote p  {
 	font-style: italic;
 }
 
+/* need the Philosopher font : fonts.googleapis.com/css?family=Philosopher */
 .blockquote-footer {
 	font-family: Philosopher;
 }
 
+/* need the Abel font : fonts.googleapis.com/css?family=Abel */
 .std-text, .lead p {
   font-family: Abel;
 }
