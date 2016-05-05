@@ -1,5 +1,5 @@
-[FreeCodeCamp] Build a Tribute Page Project - Challenge 129
-===========================================================
+[FreeCodeCamp - 129] Build a Tribute Page Project
+=================================================
 
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
 
