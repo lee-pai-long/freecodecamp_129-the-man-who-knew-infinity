@@ -4,7 +4,7 @@ body {
 
 /* need the Gravitas+One font : fonts.googleapis.com/css?family=Gravitas+One */
 h1, h2, blockquote p  {
-	font-family: 'Gravitas One';
+	font-family: 'Gravitas One', serif;
 }
 
 h1 {
@@ -21,12 +21,12 @@ blockquote p  {
 
 /* need the Philosopher font : fonts.googleapis.com/css?family=Philosopher */
 .blockquote-footer {
-	font-family: Philosopher;
+	font-family: Philosopher, sans-serif;
 }
 
 /* need the Abel font : fonts.googleapis.com/css?family=Abel */
 .std-text, .lead p {
-  font-family: Abel;
+  font-family: Abel, sans-serif;
 }
 
 .std-text{
